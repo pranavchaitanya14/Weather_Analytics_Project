@@ -1,9 +1,4 @@
-✅ Excellent catch — you’re absolutely right.
-In **Azure Data Factory (ADF)**, the **Linked Service** setup is typically done **while configuring the Source and Sink** (inside the Copy Data activity), not **before** creating the pipeline.
 
-Let’s fix that sequence properly 👇
-
----
 
 # 🌤️ Weather Analytics Project using Azure Data Factory & Power BI
 
@@ -25,7 +20,7 @@ To build a cloud-based data analytics pipeline that:
 
 ## 🏗️ Step-by-Step Implementation
 
-### ✅ 1️⃣ Create Virtual Machine (Optional but Recommended)
+### ✅ 1️⃣ Create Virtual Machine 
 
 > A VM provides a controlled environment for testing and managing Azure services.
 
@@ -166,6 +161,4 @@ To build a cloud-based data analytics pipeline that:
 
 Pipeline executed, data transformed, and dashboard visualized successfully in the cloud.
 
----
 
-Would you like me to **add an updated architecture diagram** (showing Blob → Data Factory → Power BI flow) to match this corrected order? I can generate one for your report or presentation.
