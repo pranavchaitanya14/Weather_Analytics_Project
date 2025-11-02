@@ -1,6 +1,6 @@
 
 
-# 🌤️ Weather Analytics Project using Azure Data Factory & Power BI
+# 🌤️ Weather Analytics Project using Azure Data Factory & Power BI[ETL PROCESS]
 
 ## ✅ Project Objective
 
@@ -9,6 +9,8 @@ To build a cloud-based data analytics pipeline that:
 * Stores raw weather data in Azure Blob Storage
 * Processes it using Azure Data Factory
 * Visualizes insights through Power BI
+
+- BASICALLY IT DOES "ETL" PROCESS
 
 ---
 
