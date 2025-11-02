@@ -1,6 +1,6 @@
 
 
-# 🌤️ Weather Analytics Project using Azure Data Factory & Power BI[ETL PROCESS]
+# 🌤️ Weather Analytics Project using Azure Data Factory & Power BI [ETL PROCESS]
 
 ## ✅ Project Objective
 
